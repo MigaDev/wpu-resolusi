@@ -4,3 +4,5 @@ WPU RESOLUSI
   - JavaScript
   - PhP
   - Python
+
+Membuat minimal 2 Website aktif dan 1 Aplikasi aktif
