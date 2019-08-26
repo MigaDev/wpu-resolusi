@@ -1,0 +1,6 @@
+WPU RESOLUSI
+- Menguasai 4 Bahasa Programan yaitu :
+  - Java
+  - JavaScript
+  - PhP
+  - Python
